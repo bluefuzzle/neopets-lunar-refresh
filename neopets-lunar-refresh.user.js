@@ -14,8 +14,8 @@
     /***********************
      * SETTINGS
      ***********************/
-    const TARGET_HOUR = 16;   // 0 = midnight Pacific
-    const TARGET_MIN = 2;
+    const TARGET_HOUR = 0;   // 0 = midnight Pacific
+    const TARGET_MIN = 0;
     const TARGET_SEC = 5;
 
     const OPEN_DELAY_SECONDS = 45;
